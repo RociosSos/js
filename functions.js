@@ -14,7 +14,7 @@ const logger = param => {
 logger( result )
 logger( suma2(10, 8) )
 
-const genararSaludo = () => {
+const generarSaludo = () => {
     const saludo = window.prompt("Escriba un saludo:")
     logger(saludo)
 }

@@ -1,5 +1,5 @@
 
-console.log("Hello Wrold!!");
+console.log("Hello World!!");
 
 console.log("Este valor es un número: ", 11);
 
